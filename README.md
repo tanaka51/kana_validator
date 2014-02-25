@@ -1,6 +1,6 @@
 # KanaValidator
 
-TODO: Write a gem description
+Rails 3+ validator for ひらがな and かたかな.
 
 ## Installation
 
@@ -22,7 +22,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/kana_validator/fork )
+1. Fork it ( http://github.com/tanaka51-jp/kana_validator/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

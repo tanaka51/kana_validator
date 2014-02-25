@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "kana_validator"
   spec.version       = KanaValidator::VERSION
   spec.authors       = ["Koichi Tanaka"]
-  spec.email         = ["k.tanaka@everyleaf.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.email         = ["tanaka51.jp@gmail.com"]
+  spec.summary       = %q{Rails 3+ validator for ひらがな and かたかな.}
+  spec.description   = %q{Rails 3+ validator for ひらがな and かたかな.}
+  spec.homepage      = "http://github.com/tanaka51-jp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
