@@ -18,7 +18,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+class HiraganaUser < ActiveRecord::Base
+  validates :name, kana: {with: %i(hiragana)}
+end
+```
+
+options are:
+- `:hiragana` accepts ひらがな.
+- `:katakana` accepts カタカナｶﾀｶﾅ.
+- `:katakana_zen` accepts カタカナ.
+- `:katakana_han` accepts ｶﾀｶﾅ.
+
 
 ## Contributing
 
