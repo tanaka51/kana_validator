@@ -1,6 +1,6 @@
 # KanaValidator
 
-Rails 3+ validator for ひらがな and かたかな.
+Rails 3+ validator for ひらがな and カタカナ.
 
 ## Installation
 
