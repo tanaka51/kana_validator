@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['tanaka51.jp@gmail.com']
   spec.summary       = %q{Rails 3+ validator for ひらがな and かたかな.}
   spec.description   = %q{Rails 3+ validator for ひらがな and かたかな.}
-  spec.homepage      = 'http://github.com/tanaka51-jp'
+  spec.homepage      = 'http://github.com/tanaka51-jp/kana_validator'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
